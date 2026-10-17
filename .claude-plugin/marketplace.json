@@ -1,0 +1,16 @@
+{
+  "name": "junhyun-plugins",
+  "owner": {
+    "name": "준현"
+  },
+  "metadata": {
+    "description": "준현의 Claude Code 플러그인 모음"
+  },
+  "plugins": [
+    {
+      "name": "figma-naming",
+      "source": "./",
+      "description": "Figma 이름을 코드 대응 네이밍 규칙으로 검사하고 일괄 Rename한다."
+    }
+  ]
+}
